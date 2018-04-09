@@ -1,0 +1,9 @@
+H:\Programs\VB\Projects\VoiceBot\VoiceBot\bin\Debug\VoiceBot.exe.config
+H:\Programs\VB\Projects\VoiceBot\VoiceBot\bin\Debug\VoiceBot.exe
+H:\Programs\VB\Projects\VoiceBot\VoiceBot\bin\Debug\VoiceBot.pdb
+H:\Programs\VB\Projects\VoiceBot\VoiceBot\obj\Debug\VoiceBot.csprojResolveAssemblyReference.cache
+H:\Programs\VB\Projects\VoiceBot\VoiceBot\obj\Debug\VoiceBot.Form1.resources
+H:\Programs\VB\Projects\VoiceBot\VoiceBot\obj\Debug\VoiceBot.Properties.Resources.resources
+H:\Programs\VB\Projects\VoiceBot\VoiceBot\obj\Debug\VoiceBot.csproj.GenerateResource.Cache
+H:\Programs\VB\Projects\VoiceBot\VoiceBot\obj\Debug\VoiceBot.exe
+H:\Programs\VB\Projects\VoiceBot\VoiceBot\obj\Debug\VoiceBot.pdb
